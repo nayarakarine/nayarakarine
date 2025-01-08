@@ -1,14 +1,14 @@
 ### Olá, mundo! Eu sou Nayara Karine. 🖖
 
-Minha jornada no universo da tecnologia começou com um curso técnico, e atualmente estou cursando Engenharia de Software. Embora eu goste de explorar diversas áreas do desenvolvimento, meu foco atual está em Front-end, onde estou sempre buscando aprimorar minhas habilidades para criar interfaces dinâmicas e intuitivas.
+Minha paixão por tecnologia começou com um curso técnico, e hoje estou cursando Engenharia de Software. Atualmente, meu foco está no desenvolvimento Front-end, onde encontro a oportunidade de transformar ideias em interfaces interativas e intuitivas que proporcionam experiências incríveis para os usuários.
 
-Tenho experiência com HTML, CSS, JavaScript e frameworks como React, que me permitem desenvolver soluções eficientes e de alta performance. Para mim, o Front-end é uma forma de conectar o usuário final com a tecnologia de forma fluida e envolvente.
+Tenho sólida experiência com HTML, CSS e JavaScript, além de trabalhar com frameworks como React. Recentemente, desenvolvi projetos que envolvem funcionalidades dinâmicas, organização eficiente de código e design responsivo. Para garantir a melhor experiência possível, também estou estudando UX/UI Design, explorando princípios de usabilidade, design centrado no usuário e ferramentas como Figma, para criar interfaces ainda mais atraentes e funcionais.
 
-Além disso, também estou familiarizada com o Back-end, trabalhando com Java e Spring Boot, o que me permite entender melhor o ciclo completo de desenvolvimento e garantir que o Front-end e o Back-end se integrem de forma harmoniosa.
+Embora meu foco seja Front-end, também tenho conhecimentos em Back-end com Java e Spring Boot, o que me ajuda a criar soluções integradas e otimizadas.
 
-Amo tecnologia e como ela está transformando nosso cotidiano. 💻<br>
+Sou apaixonada por aprender e por contribuir para um futuro onde a tecnologia facilite a vida das pessoas. Acredito no poder da colaboração, da criatividade e de um design bem pensado para transformar experiências. 💻
 
-Vamos construir juntos um futuro tecnológico brilhante! 🚀🚀
+Vamos juntos criar interfaces que façam a diferença! 🚀
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayarakarine-araujo)
